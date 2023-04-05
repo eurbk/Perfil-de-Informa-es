@@ -1,0 +1,93 @@
+
+#inputPerfil {
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+#btnExibirPerfil {
+  background-color: #008CBA;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+
+#divPerfil {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #c3ebc4;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    height: 100vh;
+    font-size: 45px;
+  }
+
+ 
+  #container {
+    display:block;
+    flex-direction: column;
+    align-items: center;
+
+  }
+  
+  #div-perfil {
+    margin-top: 16px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 45px;
+  }
+  
+  label {
+    margin-top: 50px;
+  }
+  
+  select {
+    margin-left: 20px;
+    font-size: 45px ;
+    text-align: center;
+    padding-bottom: 0%;
+
+  }
+  
+  
+  #mostrarEndereco {
+    margin-top: 20px;
+    text-align: center;
+    
+  }
+  
+  #mostrarEndereco button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    
+  }
+  
+  .input-perfil {
+    font-size: 16px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 16px;
+  }
+  
+  
+  

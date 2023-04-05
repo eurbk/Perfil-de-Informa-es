@@ -1,0 +1,32 @@
+{
+  "nome": "João",
+  "idade": 25,
+  "email": "joao@example.com",
+  "endereço": {
+    "rua": "Rua das Flores",
+    "número": 123,
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "país": "Brasil"
+  },
+  "interesses": [
+    "Programação",
+    "Futebol",
+    "Cinema",
+    "Leitura"
+  ],
+  "amigos": [
+    {
+      "nome": "Maria",
+      "idade": 27
+    },
+    {
+      "nome": "Pedro",
+      "idade": 24
+    },
+    {
+      "nome": "Ana",
+      "idade": 26
+    }
+  ]
+}
